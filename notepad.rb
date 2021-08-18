@@ -24,4 +24,3 @@ entry.save
 
 puts "Note was successfully saved"
 
-
